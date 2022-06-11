@@ -16,3 +16,4 @@ class App:
     def quit(self):
         print("Quit 버튼이 클릭되었음!")
 
+App()
